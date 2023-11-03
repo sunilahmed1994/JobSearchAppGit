@@ -1,2 +1,2 @@
 # JobSearchApp
- job posting and finding app for freelancers and employers
+ Job finding and posting app for freelancers and companies
